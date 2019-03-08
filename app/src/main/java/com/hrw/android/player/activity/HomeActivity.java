@@ -17,6 +17,8 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TabHost;
 
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
 import com.hrw.android.player.BelmotPlayer;
 import com.hrw.android.player.R;
 import com.hrw.android.player.broadcastreceiver.UpdateUiBroadcastReceiver;
@@ -50,6 +52,9 @@ public class HomeActivity extends TabActivity {
 		c.startActivity(intent);
 	}
 
+	//creating an instance of the AdView
+    private AdView mAdview;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		setContentView(R.layout.main_activity);
@@ -64,6 +69,12 @@ public class HomeActivity extends TabActivity {
 		if (null == audioDao) {
 			audioDao = new AudioDaoImpl(this);
 		}
+
+
+		// Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713
+		MobileAds.initialize(this, "ca-app-pub-3940256099942544~3347511713");
+
+
 	}
 
 	private void registerReceiver() {

@@ -2,14 +2,17 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	package="com.hrw.android.player" android:versionCode="1"
 	android:versionName="1.0">
-	<application
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
 		android:icon="@drawable/logo"
 		android:label="@string/app_name"
 		android:name="BelmotPlayer">
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="id"/>
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
+
 	      <activity android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
 			  android:name=".activity.SplashscreenActivity"
 			  android:screenOrientation="portrait">

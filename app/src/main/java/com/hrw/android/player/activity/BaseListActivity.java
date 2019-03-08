@@ -28,6 +28,8 @@ import com.hrw.android.player.component.menu.CommonPopupWindowMenu;
 import com.hrw.android.player.domain.BaseDomain;
 import com.hrw.android.player.utils.MenuUtil;
 import com.hrw.android.player.utils.Constants.PopupMenu;
+import com.google.android.gms.ads.MobileAds;
+
 
 public abstract class BaseListActivity extends ListActivity {
 	CommonPopupWindowMenu popWindow;
