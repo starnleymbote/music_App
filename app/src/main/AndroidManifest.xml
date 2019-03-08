@@ -7,7 +7,9 @@
 		android:label="@string/app_name"
 		android:name="BelmotPlayer">
 
-
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="id"/>
 	      <activity android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
 			  android:name=".activity.SplashscreenActivity"
 			  android:screenOrientation="portrait">
