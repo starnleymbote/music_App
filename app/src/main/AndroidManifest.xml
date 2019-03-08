@@ -2,8 +2,15 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 	package="com.hrw.android.player" android:versionCode="1"
 	android:versionName="1.0">
-	<application android:icon="@drawable/icon" android:label="@string/app_name" android:name="BelmotPlayer">
-	      <activity android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:name=".activity.SplashscreenActivity" android:screenOrientation="portrait">
+	<application
+		android:icon="@drawable/logo"
+		android:label="@string/app_name"
+		android:name="BelmotPlayer">
+
+
+	      <activity android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+			  android:name=".activity.SplashscreenActivity"
+			  android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

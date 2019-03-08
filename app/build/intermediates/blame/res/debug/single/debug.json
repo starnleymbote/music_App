@@ -4,12 +4,12 @@
         "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/drawable-mdpi/ic_menu_add_all_to.png"
     },
     {
-        "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/layout_common_list_item2.xml.flat",
-        "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/layout/common_list_item2.xml"
-    },
-    {
         "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/layout_common_listview.xml.flat",
         "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/layout/common_listview.xml"
+    },
+    {
+        "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/layout_common_list_item2.xml.flat",
+        "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/layout/common_list_item2.xml"
     },
     {
         "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/raw_readme.txt.flat",
@@ -220,6 +220,10 @@
         "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/drawable/splash_anim.xml"
     },
     {
+        "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/drawable-mdpi_bg_splash1.jpg.flat",
+        "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/drawable-mdpi/bg_splash1.jpg"
+    },
+    {
         "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/drawable_btn_default.xml.flat",
         "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/drawable/btn_default.xml"
     },
@@ -294,6 +298,10 @@
     {
         "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_check_off_pressed.png.flat",
         "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/drawable-mdpi/btn_check_off_pressed.png"
+    },
+    {
+        "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat",
+        "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/drawable-hdpi/logo.png"
     },
     {
         "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/drawable-mdpi_playmode_repeate_random_pressed.png.flat",
@@ -378,10 +386,6 @@
     {
         "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/drawable-mdpi_playmode_repeate_single_pressed.png.flat",
         "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/drawable-mdpi/playmode_repeate_single_pressed.png"
-    },
-    {
-        "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/drawable-mdpi_bg_splash.jpg.flat",
-        "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/drawable-mdpi/bg_splash.jpg"
     },
     {
         "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/drawable_playback_seekbar_style.xml.flat",
@@ -538,6 +542,10 @@
     {
         "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/drawable-mdpi_list_pause_indicator.png.flat",
         "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/drawable-mdpi/list_pause_indicator.png"
+    },
+    {
+        "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/drawable-mdpi_bg_splash.png.flat",
+        "source": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/src/main/res/drawable-mdpi/bg_splash.png"
     },
     {
         "merged": "/home/stano/AndroidStudioProjects/MobiTech/codecanyon-21418542-broken-wings-adventure-game-android-ios-template-inside/Android Template Envato/musix_player1/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_menu_setting.png.flat",
