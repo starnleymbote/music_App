@@ -124,6 +124,7 @@ public class AudioDaoImpl extends ContextWrapper implements AudioDao {
 		Cursor cursor = resolver.query(
 				MediaStore.Audio.Media.EXTERNAL_CONTENT_URI, null, null, null,
 				MediaStore.Audio.Media.DEFAULT_SORT_ORDER);
+
 		if (cursor.moveToFirst()) {
 			for (int i = 0; i < cursor.getCount(); i++) {
 				cursor.moveToPosition(i);

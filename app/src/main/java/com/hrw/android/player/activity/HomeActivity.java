@@ -17,6 +17,7 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.TabHost;
 
+import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
 import com.hrw.android.player.BelmotPlayer;
@@ -53,7 +54,7 @@ public class HomeActivity extends TabActivity {
 	}
 
 	//creating an instance of the AdView
-    private AdView mAdview;
+    private AdView mAdview1;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -73,6 +74,11 @@ public class HomeActivity extends TabActivity {
 
 		// Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713
 		MobileAds.initialize(this, "ca-app-pub-3940256099942544~3347511713");
+
+		//loading the ad
+        mAdview1 = (AdView) findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdview1.loadAd(adRequest);
 
 
 	}
